@@ -105,6 +105,14 @@ main {
   color: rgba(255, 255, 255, 0.5);
 }
 
+.stars {
+  text-align: center;
+}
+
+.star {
+  background: linear-gradient(90deg, #fc0 0.5, #fff 1);
+}
+
 @media screen and (min-width: 600px) {
   main {
     grid-template-columns: repeat(2, 1fr);
