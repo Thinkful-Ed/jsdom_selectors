@@ -1,14 +1,14 @@
 # National Parks
 
-_Starter project for Front End Web Development course at Thinkful_
+_Practice for Front End Web Development JS DOM Selectors_
 
 ## Introduction
 
-This starter project is for Selecting Elements checkpoints. It comprises an HTML file, a CSS file and an JavaScript file.
+This is the starter repository for the practice for the Selecting Elements checkpoints. It comprises an HTML file, a CSS file and an JavaScript file.
 
 ## View Demo
 
-For a demonstration of the page visit [this link](https://vramdhanie.github.io/jsdom_selectors/).
+For a demonstration of the page visit [this link](https://thinkful-ed.github.io/jsdom_selectors/).
 
 ## Getting started
 
