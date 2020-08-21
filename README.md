@@ -8,7 +8,7 @@ This is the starter repository for the practice for the Selecting Elements check
 
 ## View Demo
 
-For a demonstration of the page visit [this link](https://thinkful-ed.github.io/jsdom_selectors/).
+For a demonstration of the page visit [this link](https://thinkful-ed.github.io/starter-jsdom-selectors/).
 
 ## Getting started
 
@@ -17,7 +17,7 @@ Fork this repository. Use the _Fork_ button at the top right hand corner of the 
 Clone your fork of the repository to your local machine.
 
 ```bash
-git clone https://github.com/<YOUR_GITHUB_USERNAME>/national_parks.git
+git clone https://github.com/<YOUR_GITHUB_USERNAME>/starter-jsdom-selectors.git
 ```
 
 Navigate to the folder containing the repository and start a local server:
