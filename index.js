@@ -4,8 +4,7 @@ console.log("Connected!");
 // Write your solution code here
 
 // 1. Select all ratings values
-const ratings = ...
-console.log(ratings);
+
 
 // 2. Select all stars that are not shaded
 
