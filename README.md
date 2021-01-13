@@ -23,7 +23,6 @@ git clone https://github.com/<YOUR_GITHUB_USERNAME>/starter-jsdom-selectors.git
 Navigate to the folder containing the repository and and open the folder in VS Code:
 
 ```bash
-cd starter-jsdom-selectors
 code .
 ```
 
