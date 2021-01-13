@@ -20,17 +20,14 @@ Clone your fork of the repository to your local machine.
 git clone https://github.com/<YOUR_GITHUB_USERNAME>/starter-jsdom-selectors.git
 ```
 
-Navigate to the folder containing the repository and start a local server:
+Navigate to the folder containing the repository and and open the folder in VS Code:
 
 ```bash
-npx lite-server
-```
-
-Open the code in your favourite editor. For instance, to open VSCode:
-
-```bash
+cd starter-jsdom-selectors
 code .
 ```
+
+Using VSCode, run the website with the [Live Server extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) that you installed in an earlier module.
 
 ## Tasks
 
